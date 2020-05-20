@@ -12,3 +12,5 @@ At the end of the course students will
 [Arithmetic modulo 2](https://hackmd.io/@alexhkurz/ByKQ3EGiU)
 
 [Arithmetic modulo 3](https://hackmd.io/@alexhkurz/SyJCHSMs8)
+
+$2\cdot 4$
