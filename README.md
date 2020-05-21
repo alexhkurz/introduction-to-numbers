@@ -1,11 +1,6 @@
 # introduction-to-numbers
 
-At the end of the course students will 
-
-- be able to  do modular arithmetic
-- understand the mathematical definition of the real numbers
-- have practiced mathematical proofs
-- ...
+Not a course, rather a blog keeping track of teaching this material to my children ...
 
 **Prerequisites:** Roughly speaking GCSE mathematics.
 
@@ -13,11 +8,11 @@ At the end of the course students will
 
 Every lesson has some takeaways. The takeaways try to answer the question of how mathematicians approach an open problem. How do you launch yourself into an investigation? What are the general principles of mathematical investigation? Even though modular arithmetic is well understood, if you approach it with an open minded inquiry based approach, you find already the same methods at play as in much more advanced cutting edge mathematics.
 
-[Arithmetic modulo 2](https://hackmd.io/@alexhkurz/ByKQ3EGiU)
-
-[Arithmetic modulo 3](https://hackmd.io/@alexhkurz/SyJCHSMs8)
-
-[Arithmetic modulo 4](https://hackmd.io/@alexhkurz/SJZTQ9moL)
+- [Arithmetic modulo 2](https://hackmd.io/@alexhkurz/ByKQ3EGiU)
+- [Arithmetic modulo 3](https://hackmd.io/@alexhkurz/SyJCHSMs8)
+- Systems of 4 numbers
+   - [Addition modulo 4](https://hackmd.io/@alexhkurz/SJZTQ9moL)
+   - [More addition tables for 4 numbers](https://hackmd.io/@alexhkurz/Sy4X0P4oU)
 
 [Hunting for patterns]() (under construction)
 
