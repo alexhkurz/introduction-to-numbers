@@ -22,6 +22,8 @@ maybe in the future:
 
 [Patterns of Patterns]() 
 
+[Classifying finite abelian groups]()
+
 [Classifying all fields of finite characteristic]()
 
 [The laws of modular arithmetic]()
