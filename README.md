@@ -17,6 +17,8 @@ Every lesson has some takeaways. The takeaways try to answer the question of how
 
 [Arithmetic modulo 3](https://hackmd.io/@alexhkurz/SyJCHSMs8)
 
+[Arithmetic modulo 4](https://hackmd.io/@alexhkurz/SJZTQ9moL)
+
 [Hunting for patterns]() (under construction)
 
 [Proving conjectures]() (not even begun)
