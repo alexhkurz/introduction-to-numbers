@@ -13,6 +13,7 @@ Every lesson has some takeaways. The takeaways try to answer the question of how
 - Systems of 4 numbers
    - [Addition modulo 4](https://hackmd.io/@alexhkurz/SJZTQ9moL)
    - [More addition tables for 4 numbers](https://hackmd.io/@alexhkurz/Sy4X0P4oU)
+   - [Using Computers](https://hackmd.io/@alexhkurz/r1Gdg_EoU)
 
 [Hunting for patterns]() (under construction)
 
@@ -22,7 +23,7 @@ maybe in the future:
 
 [Patterns of Patterns]() 
 
-[Classifying finite abelian groups]()
+[Classifying finite abelian groups](http://abstract.ups.edu/aata/section-finite-abelian-groups.html)
 
 [Classifying all fields of finite characteristic]()
 
