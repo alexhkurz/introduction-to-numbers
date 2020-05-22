@@ -15,7 +15,7 @@ def op(x,y):
     elif y == 0:
         return x
     elif x==y:
-        return 1
+        return 0
     elif x==1 and y==2:
         return 3
     elif x==1 and y==3:

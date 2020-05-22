@@ -38,6 +38,7 @@ def test_inverse():
                 exists_zero = True
         if not exists_zero:
             print(x, 'has no inverse')
+            result = False
     return result
 
 # Verify whether a group
