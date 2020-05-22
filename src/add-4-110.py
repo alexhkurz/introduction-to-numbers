@@ -11,14 +11,18 @@ carrier = [0,1,2,3]
 def op(x,y):
     if x == 0: # 0 is the neutral element, hence op(0,y)=y
         return y
-    elif x==y: # in this example the diagonal is 0
+    elif x==1 and y==1: 
         return 0
     elif x==1 and y==2: 
         return 3
     elif x==1 and y==3:
         return 2
+    elif x==2 and y==2:
+        return 0
     elif x==2 and y==3:
-        return 3
+        return 1
+    elif x==3 and y==3:
+        return 0
     else: # if x > y
         return op(y,x) # op(x,y) = op(y,x) due to commutativity
 
