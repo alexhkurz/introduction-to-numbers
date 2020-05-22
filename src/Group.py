@@ -1,5 +1,5 @@
 '''
-Verify whether op is a group operation on carrier with neutral element
+Verify whether op is a group operation on carrier
 '''
 
 import itertools
@@ -12,16 +12,12 @@ def __init__(mycarrier, myunit, myop):
     global op
     op = myop
 
-# UTILITIES 
-
 # print a 2d table in matrix form without commas, brackets and quotes
 def print_table(t):
     for row in t:
         print(" ".join(map(str,row)))
 
 # VERIFICATION OF GROUP STRUCTURE
-
-# Verify whether self is a group
 
 def test_associative():
     result = True
@@ -36,7 +32,8 @@ def test_unit():
     for x in carrier:
         if not(op(x,unit) == x) or not(op(unit,x)==x):
             result = False
-            print('unit is not a neutral element')
+            print('unit is not a neutral element for', x)
+    return result
             
 
 def test_inverse():
@@ -54,7 +51,7 @@ def test_inverse():
 # Verify whether a group
 def test_group():
     if test_associative():
-        print('associative')
+        print('is associative')
     if test_unit():
         print('has neutral element')
     if test_inverse():
