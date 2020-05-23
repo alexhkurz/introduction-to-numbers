@@ -17,7 +17,7 @@ def print_table(t):
     for row in t:
         print(" ".join(map(str,row)))
 
-# VERIFICATION OF GROUP STRUCTURE
+# VERIFY GROUP STRUCTURE AND PRINT RESULTS
 
 def test_associative():
     result = True
@@ -48,7 +48,7 @@ def test_inverse():
             result = False
     return result
 
-# Verify whether a group
+# Verify whether a group and print result
 def test_group():
     if test_associative():
         print('is associative')
@@ -57,4 +57,35 @@ def test_group():
     if test_inverse():
         print('has inverses')
 
+# VERIFY GROUP STRUCTURE AND RETURN BOOLEAN
+
+def is_associative():
+    result = True
+    for x,y,z in itertools.combinations_with_replacement(carrier, 3):
+        if op(x,op(y,z))!=op(op(x,y),z):
+            result = False
+    return result
+
+def has_unit():
+    result = True
+    for x in carrier:
+        if not(op(x,unit) == x) or not(op(unit,x)==x):
+            result = False
+    return result
+            
+
+def has_inverses():
+    result = True
+    for x in carrier:
+        exists_unit = False
+        for y in carrier:
+            if op(x,y)==unit:
+                exists_unit = True
+        if not exists_unit:
+            result = False
+    return result
+
+# Verify whether a group
+def is_group():
+    return is_associative() and has_unit() and has_inverses()
 
