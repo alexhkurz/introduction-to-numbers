@@ -10,7 +10,7 @@ for table in combinations(list_of_permuatations, n):
     Group.__init__(carrier,0,op)
     if Group.is_group():
         print('found group:')
-        Group.print_table([[op(x,y) for y in carrier] for x in carrier])
+        Group.print_table(table)
 
 
 
