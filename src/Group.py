@@ -21,10 +21,12 @@ def print_table(t):
 
 def test_associative():
     result = True
-    for x,y,z in itertools.combinations_with_replacement(carrier, 3):
+    for x,y,z in itertools.product(carrier, repeat=3):
         if op(x,op(y,z))!=op(op(x,y),z):
             result = False
             print('violates associativity: (',x, y,')', z,'=', op(op(x,y),z), ' and ' , x, '(', y, z, ')','=',op(x,op(y,z)))
+        # else:
+            # print('associative: (',x, y,')', z,'=', op(op(x,y),z), ' and ' , x, '(', y, z, ')','=',op(x,op(y,z)))
     return result
 
 def test_unit():
@@ -60,30 +62,33 @@ def test_group():
 # VERIFY GROUP STRUCTURE AND RETURN BOOLEAN
 
 def is_associative():
-    result = True
-    for x,y,z in itertools.combinations_with_replacement(carrier, 3):
+    for x,y,z in itertools.product(carrier, repeat=3):
         if op(x,op(y,z))!=op(op(x,y),z):
-            result = False
-    return result
+            return False
+    return True
 
 def has_unit():
-    result = True
     for x in carrier:
         if not(op(x,unit) == x) or not(op(unit,x)==x):
-            result = False
-    return result
+            return False
+    return True
             
-
+def is_commutative():
+    for x in carrier:
+        for y in carrier:
+            if not(op(x,y) == op(y,x)):
+                return False
+    return True
+            
 def has_inverses():
-    result = True
     for x in carrier:
         exists_unit = False
         for y in carrier:
             if op(x,y)==unit:
                 exists_unit = True
         if not exists_unit:
-            result = False
-    return result
+            return False
+    return True
 
 # Verify whether a group
 def is_group():
