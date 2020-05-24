@@ -18,7 +18,6 @@ for table_plus in combinations(list_of_permutations, n):
     Ring.__init__(carrier,0,1,plus,plus) # the 2nd plus is redundant for now
     # any structure generated so far satisfies Ring.has_minus() because we use permutations
     if Ring.has_zero() and Ring.plus_is_associative():
-        # Ring.print_table([[plus(x,y) for y in carrier] for x in carrier])
         # choose n-2 distinct rows (the first two rows are determined by the properties of zero and one)
         for table_mult in permutations(list_of_permutations1, n-2):
             def mult(x,y):

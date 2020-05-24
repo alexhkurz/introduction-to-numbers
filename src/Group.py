@@ -92,5 +92,5 @@ def has_inverses():
 
 # Verify whether a group
 def is_group():
-    return is_associative() and has_unit() and has_inverses()
+    return has_unit() and has_inverses() and is_associative()
 
