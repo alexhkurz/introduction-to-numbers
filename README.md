@@ -1,10 +1,8 @@
-# introduction-to-numbers
+# Introduction to Number Theory
 
 Not a course, rather a blog keeping track of teaching this material to my children ... teaching is maybe not the right word, rather I want to make them discover the maths for themselves.
 
-**Prerequisites:** Roughly speaking GCSE mathematics.
-
-## Chapter 1: Number Theory
+**Prerequisites:** Roughly speaking GCSE mathematics. Know how to play sudoku.
 
 Every lesson has some takeaways. The takeaways try to answer the question of how mathematicians approach an open problem. How do you launch yourself into an investigation? What are the methods of mathematical investigation? 
 
@@ -48,18 +46,6 @@ maybe in the future:
 ### References
 
 Some resources I looked at. [Number Theory](http://faculty.bard.edu/~belk/math318/). [Abstract Algebra](http://abstract.ups.edu/aata/section-finite-abelian-groups.html). ...
-
-## Chapter 2: Field of characteristic 0
-
-...
-
-## Chapter 3: The real numbers
-
-...
-
-## Chapter 4: Complex numbers
-
-...
 
 ## Acknoweldgements
 
