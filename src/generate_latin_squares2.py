@@ -1,5 +1,6 @@
 '''
-generate_latin_squares.py
+generate_latin_squares.py, version 2
+compared to generate_latin_squares1.py, generate() passes table by reference (on 5 elements a speed-up of 27%)
 '''
 
 import copy
@@ -41,18 +42,17 @@ def next_y(x,y):
 # generate all possible tables and check their properties
 def generate(x,y,table,available):
     for z in available[x][y]:
-        new_table = copy.deepcopy(table) # python has call by reference, so we need to copy
-        new_table[x][y] = z
-        new_available = copy.deepcopy(available) # python has call by reference, so we need to copy
+        table[x][y] = z # we dont need to revert changes on backtracking, recursive call be reference works
+        new_available = copy.deepcopy(available) # we need to revert changes on backtracking, deepcopy needed
         for i in carrier:
             new_available[x][i] = [a for a in available[x][i] if a != z]
             new_available[i][y] = [a for a in available[i][y] if a != z]
         if not ( x == n-1 and y == n-1 ):
-            generate(next_x(x,y), next_y(x,y), new_table, new_available)
+            generate(next_x(x,y), next_y(x,y), table, new_available)
         else: 
-            init(carrier,new_table)
+            init(carrier,table)
             print('')
-            print_table(new_table)
+            print_table(table)
 
 generate(0,0, table, available)
 

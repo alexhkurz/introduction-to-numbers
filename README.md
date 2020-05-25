@@ -16,6 +16,7 @@ Even though modular arithmetic is well understood, if you approach it with an op
    - [Using computers to verify equations](https://hackmd.io/@alexhkurz/r1Gdg_EoU)
    - [Playing Sudoku ... or rather Groupoku](https://hackmd.io/@alexhkurz/B1w9oSPiL)
    - [More Groupokus](https://hackmd.io/@alexhkurz/S1xSrvwjL)
+   - [Brief introduction to programming in Python](): tba
    - [Using computers to generate structures](): tba  
    - [Counting up to isomorphism](): tba
    - [Groups, rings, and fields](): tba
