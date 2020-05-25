@@ -1,12 +1,14 @@
 # Introduction to Number Theory
 
-Not a course, rather a blog keeping track of teaching this material to my children ... teaching is maybe not the right word, rather I want to make them discover the maths for themselves.
+Not a course, rather a blog keeping track of teaching this material to my children (age 15 and 18)  ... teaching is maybe not the right word, rather I want to make them discover the maths for themselves.
 
 **Prerequisites:** Roughly speaking GCSE mathematics. Know how to play sudoku.
 
 Every lesson has some takeaways. The takeaways try to answer the question of how mathematicians approach an open problem. How do you launch yourself into an investigation? What are the methods of mathematical investigation? 
 
-Even though modular arithmetic is well understood, if you approach it with an open minded inquiry based approach, you find already the same methods at play as in much more advanced cutting edge mathematics.
+These are questions that are not asked at school. And even at university students often spend more time with "frozen" mathematics rather than doing research of their own.
+
+I don't think it has to be this way ... at least that is what I am exploring here ... if you want to join in let me know, I could use more feedback ...
 
 - [What are numbers?](https://hackmd.io/@alexhkurz/ByKQ3EGiU)
 - [Arithmetic modulo 3](https://hackmd.io/@alexhkurz/SyJCHSMs8)
@@ -16,7 +18,7 @@ Even though modular arithmetic is well understood, if you approach it with an op
    - [Using computers to verify equations](https://hackmd.io/@alexhkurz/r1Gdg_EoU)
    - [Playing Sudoku ... or rather Groupoku](https://hackmd.io/@alexhkurz/B1w9oSPiL)
    - [More Groupokus](https://hackmd.io/@alexhkurz/S1xSrvwjL)
-   - [Brief introduction to programming in Python](): tba
+   - [Brief introduction to programming in Python](): tba8
    - [Using computers to generate structures](): tba  
    - [Counting up to isomorphism](): tba
    - [Groups, rings, and fields](): tba
