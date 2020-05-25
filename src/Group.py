@@ -43,7 +43,7 @@ def test_inverse():
     for x in carrier:
         exists_unit = False
         for y in carrier:
-            if op(x,y)==unit:
+            if op(x,y)==unit and op(y,x)==unit:
                 exists_unit = True
         if not exists_unit:
             print(x, 'has no inverse')
@@ -84,11 +84,27 @@ def has_inverses():
     for x in carrier:
         exists_unit = False
         for y in carrier:
-            if op(x,y)==unit:
+            if op(x,y)==unit and op(y,x)==unit:
                 exists_unit = True
         if not exists_unit:
             return False
     return True
+
+# Not needed to check for groups
+
+# requires has_inverses()
+def minus(x): 
+    for y in carrier:
+        if op(x,y)==unit and op(y,x)==unit:
+            return y
+
+# requires has_inverses()
+def is_half_associative():
+    for x,y in itertools.product(carrier, repeat=2):
+        if op(minus(x),op(x,y))!=y or op(op(y,x),minus(x))!=y:
+            return False
+    return True
+
 
 # Verify whether a group
 def is_group():

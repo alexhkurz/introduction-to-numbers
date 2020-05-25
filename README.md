@@ -4,13 +4,13 @@ Not a course, rather a blog keeping track of teaching this material to my childr
 
 **Prerequisites:** Roughly speaking GCSE mathematics.
 
-## Chapter 1: Modular Arithmetic
+## Chapter 1: Number Theory
 
 Every lesson has some takeaways. The takeaways try to answer the question of how mathematicians approach an open problem. How do you launch yourself into an investigation? What are the methods of mathematical investigation? 
 
 Even though modular arithmetic is well understood, if you approach it with an open minded inquiry based approach, you find already the same methods at play as in much more advanced cutting edge mathematics.
 
-- [Arithmetic modulo 2](https://hackmd.io/@alexhkurz/ByKQ3EGiU)
+- [What are numbers?](https://hackmd.io/@alexhkurz/ByKQ3EGiU)
 - [Arithmetic modulo 3](https://hackmd.io/@alexhkurz/SyJCHSMs8)
 - Systems of 4 numbers
    - [Addition modulo 4](https://hackmd.io/@alexhkurz/SJZTQ9moL)
@@ -44,6 +44,10 @@ maybe in the future:
 [Applications of modular arithmetic to cryptography]()
 
 ...
+
+### References
+
+Some resources I looked at. [Number Theory](http://faculty.bard.edu/~belk/math318/). [Abstract Algebra](http://abstract.ups.edu/aata/section-finite-abelian-groups.html). ...
 
 ## Chapter 2: Field of characteristic 0
 
