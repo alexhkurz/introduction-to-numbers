@@ -11,6 +11,7 @@ These are questions that are not asked at school. And even at university student
 I don't think it has to be this way ... at least that is what I am exploring here ... if you want to join in let me know, I could use more feedback ...
 
 - [What are numbers?](https://hackmd.io/@alexhkurz/ByKQ3EGiU)
+- [The field with two numbers](https://hackmd.io/@alexhkurz/HyzjN3qsI)
 - [Arithmetic modulo 3](https://hackmd.io/@alexhkurz/SyJCHSMs8)
 - Systems of 4 numbers
    - [Addition modulo 4](https://hackmd.io/@alexhkurz/SJZTQ9moL)
