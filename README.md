@@ -1,14 +1,10 @@
-# Introduction to Number Theory
+# Introduction to Numbers
 
 Not a course, rather a blog keeping track of teaching this material to my children (age 15 and 18)  ... teaching is maybe not the right word, rather I want to make them discover the maths for themselves.
 
 **Prerequisites:** Roughly speaking GCSE mathematics. Know how to play sudoku.
 
-Every lesson has some takeaways. The takeaways try to answer the question of how mathematicians approach an open problem. How do you launch yourself into an investigation? What are the methods of mathematical investigation? 
-
-These are questions that are not asked at school. And even at university students often spend more time with "frozen" mathematics rather than doing research of their own.
-
-I don't think it has to be this way ... at least that is what I am exploring here ... if you want to join in let me know, I could use more feedback ...
+[Preface](preface.md)
 
 - [What are numbers?](https://hackmd.io/@alexhkurz/ByKQ3EGiU)
 - [The field with two numbers](https://hackmd.io/@alexhkurz/HyzjN3qsI)
@@ -52,4 +48,4 @@ Some resources I looked at. [Number Theory](http://faculty.bard.edu/~belk/math31
 
 ## Acknoweldgements
 
-Thanks to Johanna and Jonathan who make this fun, to Kay Bee for discussions on inquiry based learning, and, as always, to Peter Jipsen and Drew Moshier.
+Thanks to Johanna and Jonathan who make this fun, to Kay Bee for discussions on inquiry based learning, and, as always, to Peter Jipsen and Drew Moshier for innumerable suggestions.
