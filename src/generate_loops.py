@@ -11,7 +11,7 @@ compared to generate_loops1, here table is passed by reference, save approx 25% 
 import copy
 from Group import *
 
-n = 6 # number of elements
+n = 5 # number of elements
 
 carrier = list(range(0,n)) # [0,1,... n-1]
 small_carrier = list(range(0,n)) # [1,... n-1]
@@ -37,18 +37,18 @@ for x in small_carrier:
 
 # we will iterate through all positions of the table with the help of next
 def next_x(x,y):
-    if y < n-1:
-        return x
-    elif x < n-1 and y == n-1:
+    if x < n-1:
         return x+1
+    elif x == n-1 and y < n-1:
+        return 1
     else:
         print('Error in next_x(): variable x out of bounds:', x)
 
 def next_y(x,y):
-    if y < n-1:
+    if x < n-1:
+        return y
+    elif x == n-1 and y < n-1:
         return y+1
-    elif x < n-1 and y == n-1:
-        return 1
     else:
         print('Error in next_y(): variable y out of bounds:', y)
 
@@ -68,7 +68,11 @@ def generate(x,y,table,available):
             # print('loop found')
             # print_table(new_table)
             init(carrier,0,table)
-            # fill in your code
+            if not is_associative():
+                print_table(table)
+                print('is not associative')
+                test_associative()
+
 # size 6: half_associative implies has_inverses, half_associative implies associative
 generate(1,1, table, available)
 

@@ -13,18 +13,18 @@ I don't think it has to be this way ... at least that is what I am exploring her
 - [What are numbers?](https://hackmd.io/@alexhkurz/ByKQ3EGiU)
 - [The field with two numbers](https://hackmd.io/@alexhkurz/HyzjN3qsI)
 - [Arithmetic modulo 3](https://hackmd.io/@alexhkurz/SyJCHSMs8)
-- Systems of 4 numbers
-   - [Addition modulo 4](https://hackmd.io/@alexhkurz/SJZTQ9moL)
-   - [More "addition" tables for 4 numbers](https://hackmd.io/@alexhkurz/Sy4X0P4oU)
-   - [Using computers to verify equations](https://hackmd.io/@alexhkurz/r1Gdg_EoU)
-   - [Playing Sudoku ... or rather Groupoku](https://hackmd.io/@alexhkurz/B1w9oSPiL)
-   - [More Groupokus](https://hackmd.io/@alexhkurz/S1xSrvwjL)
-   - [Using computers to generate structures](): 
-   - [Counting up to isomorphism](): tba
-   - [Groups, rings, and fields](): tba
-- [Arithmetic modulo 5](): tba
-- [Arithmetic modulo 6](): tba
-- [Arithmetic modulo 7](): tba
+- [Addition modulo 4](https://hackmd.io/@alexhkurz/SJZTQ9moL)
+- [More operations on 4 numbers](https://hackmd.io/@alexhkurz/Sy4X0P4oU)
+- [Using computers to verify equations](https://hackmd.io/@alexhkurz/r1Gdg_EoU)
+- [Python: Our first program](https://hackmd.io/@alexhkurz/Bk2c2C2oL)
+- [Python: Playing with the REPL](https://hackmd.io/@alexhkurz/SkABF8ajI)
+- [Playing Sudoku](https://hackmd.io/@alexhkurz/B1w9oSPiL)
+- [Groupokus](https://hackmd.io/@alexhkurz/S1xSrvwjL)
+- [Structure and Property](https://hackmd.io/@alexhkurz/S17OoT2oI)
+- [Using computers to generate structures](): 
+- [Counting up to isomorphism](): tba
+- [Groups, rings, and fields](): tba
+- ...
 
 [Hunting for patterns](): tba
 

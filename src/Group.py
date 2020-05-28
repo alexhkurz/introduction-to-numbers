@@ -24,7 +24,7 @@ def test_associative():
     for x,y,z in itertools.product(carrier, repeat=3):
         if table[x][table[y][z]]!=table[table[x][y]][z]:
             result = False
-            print('violates associativity: (',x, y,')', z,'=', table[x,table[y][z]], ' and ' , x, '(', y, z, ')','=',table[table[x][y]][z])
+            print('violates associativity: (',x, y,')', z,'=', table[table[x][y]][z], ' and ' , x, '(', y, z, ')','=', table[x][table[y][z]])
     return result
 
 
