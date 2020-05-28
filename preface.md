@@ -14,9 +14,11 @@ But if you just want to do the fun maths and ignore the takeaways, outlooks and 
 
 ## Programmming
 
-I think it is wrong to teach maths without teaching programming. We all learn to use calculators at school. This was an innovation of the 20th century. Now it is 2020 and we moved on. When I went to school, computers where mysterious things and only the nerdiest amongst us dared to approach it. Not even me. I remember that during the school breaks (this was in the learly 1980ies) I would sometimes go to the computer room and cast an admiring look at the pioneers writing the first computer games, mostly versions of [space invaders](https://elgoog.im/space-invaders/) and then go on to play soccer with my mates.
+I think it is wrong to teach maths without teaching programming. We all learn to use calculators at school. This was an innovation of the 20th century. Now it is 2020 and it is time to move on. 
 
-But now, in 2020, to learn to write some small programs is not more difficult than to learn how to use a calculator.
+When I went to school, computers where mysterious things and only the nerdiest amongst us dared to approach it. Not even me. I remember that during the school breaks (this was in the early 1980ies) I would sometimes go to the computer room and cast an admiring look at the pioneers writing the first computer games, mostly versions of [space invaders](https://elgoog.im/space-invaders/). And then go on to play soccer with my mates.
+
+But now, in 2020, to learn to write some small programs is not more difficult than to learn how to use a calculator. Partly, this is due to having programming languages like Python designed for being easier to learn. Moreover, any question you may have on how to program something already has an answer that is just a google search away, more often than not on [stackoverflow](https://stackoverflow.com/questions/tagged/python).
 
 More interestingly, once you learned to use and write the easy programs, you are just one step away from advanced programming concepts such as recursion and the difference of call-by-value and call-by-name and call-by-reference. So this can be really a spring board to learning programming seriously.
 

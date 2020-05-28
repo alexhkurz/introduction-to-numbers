@@ -1,0 +1,270 @@
+0 1 2 3 4
+1 2 3 4 0
+2 3 4 0 1
+3 4 0 1 2
+4 0 1 2 3
+is associative
+is commutative
+0 is unit
+has unit
+0 1 2 3 4
+1 2 4 0 3
+2 4 3 1 0
+3 0 1 4 2
+4 3 0 2 1
+is associative
+is commutative
+0 is unit
+has unit
+0 1 2 3 4
+1 3 0 4 2
+2 0 4 1 3
+3 4 1 2 0
+4 2 3 0 1
+is associative
+is commutative
+0 is unit
+has unit
+0 1 2 3 4
+1 3 4 2 0
+2 4 1 0 3
+3 2 0 4 1
+4 0 3 1 2
+is associative
+is commutative
+0 is unit
+has unit
+0 1 2 3 4
+1 4 0 2 3
+2 0 3 4 1
+3 2 4 1 0
+4 3 1 0 2
+is associative
+is commutative
+0 is unit
+has unit
+0 1 2 3 4
+1 4 3 0 2
+2 3 1 4 0
+3 0 4 2 1
+4 2 0 1 3
+is associative
+is commutative
+0 is unit
+has unit
+1 2 3 4 0
+2 3 4 0 1
+3 4 0 1 2
+4 0 1 2 3
+0 1 2 3 4
+is associative
+is commutative
+4 is unit
+has unit
+1 2 4 0 3
+2 4 3 1 0
+4 3 0 2 1
+0 1 2 3 4
+3 0 1 4 2
+is associative
+is commutative
+3 is unit
+has unit
+1 3 0 4 2
+3 4 1 2 0
+0 1 2 3 4
+4 2 3 0 1
+2 0 4 1 3
+is associative
+is commutative
+2 is unit
+has unit
+1 3 4 2 0
+3 2 0 4 1
+4 0 3 1 2
+2 4 1 0 3
+0 1 2 3 4
+is associative
+is commutative
+4 is unit
+has unit
+1 4 0 2 3
+4 3 1 0 2
+0 1 2 3 4
+2 0 3 4 1
+3 2 4 1 0
+is associative
+is commutative
+2 is unit
+has unit
+1 4 3 0 2
+4 2 0 1 3
+3 0 4 2 1
+0 1 2 3 4
+2 3 1 4 0
+is associative
+is commutative
+3 is unit
+has unit
+2 0 3 4 1
+0 1 2 3 4
+3 2 4 1 0
+4 3 1 0 2
+1 4 0 2 3
+is associative
+is commutative
+1 is unit
+has unit
+2 0 4 1 3
+0 1 2 3 4
+4 2 3 0 1
+1 3 0 4 2
+3 4 1 2 0
+is associative
+is commutative
+1 is unit
+has unit
+2 3 1 4 0
+3 0 4 2 1
+1 4 3 0 2
+4 2 0 1 3
+0 1 2 3 4
+is associative
+is commutative
+4 is unit
+has unit
+2 3 4 0 1
+3 4 0 1 2
+4 0 1 2 3
+0 1 2 3 4
+1 2 3 4 0
+is associative
+is commutative
+3 is unit
+has unit
+2 4 1 0 3
+4 0 3 1 2
+1 3 4 2 0
+0 1 2 3 4
+3 2 0 4 1
+is associative
+is commutative
+3 is unit
+has unit
+2 4 3 1 0
+4 3 0 2 1
+3 0 1 4 2
+1 2 4 0 3
+0 1 2 3 4
+is associative
+is commutative
+4 is unit
+has unit
+3 0 1 4 2
+0 1 2 3 4
+1 2 4 0 3
+4 3 0 2 1
+2 4 3 1 0
+is associative
+is commutative
+1 is unit
+has unit
+3 0 4 2 1
+0 1 2 3 4
+4 2 0 1 3
+2 3 1 4 0
+1 4 3 0 2
+is associative
+is commutative
+1 is unit
+has unit
+3 2 0 4 1
+2 4 1 0 3
+0 1 2 3 4
+4 0 3 1 2
+1 3 4 2 0
+is associative
+is commutative
+2 is unit
+has unit
+3 2 4 1 0
+2 0 3 4 1
+4 3 1 0 2
+1 4 0 2 3
+0 1 2 3 4
+is associative
+is commutative
+4 is unit
+has unit
+3 4 0 1 2
+4 0 1 2 3
+0 1 2 3 4
+1 2 3 4 0
+2 3 4 0 1
+is associative
+is commutative
+2 is unit
+has unit
+3 4 1 2 0
+4 2 3 0 1
+1 3 0 4 2
+2 0 4 1 3
+0 1 2 3 4
+is associative
+is commutative
+4 is unit
+has unit
+4 0 1 2 3
+0 1 2 3 4
+1 2 3 4 0
+2 3 4 0 1
+3 4 0 1 2
+is associative
+is commutative
+1 is unit
+has unit
+4 0 3 1 2
+0 1 2 3 4
+3 2 0 4 1
+1 3 4 2 0
+2 4 1 0 3
+is associative
+is commutative
+1 is unit
+has unit
+4 2 0 1 3
+2 3 1 4 0
+0 1 2 3 4
+1 4 3 0 2
+3 0 4 2 1
+is associative
+is commutative
+2 is unit
+has unit
+4 2 3 0 1
+2 0 4 1 3
+3 4 1 2 0
+0 1 2 3 4
+1 3 0 4 2
+is associative
+is commutative
+3 is unit
+has unit
+4 3 0 2 1
+3 0 1 4 2
+0 1 2 3 4
+2 4 3 1 0
+1 2 4 0 3
+is associative
+is commutative
+2 is unit
+has unit
+4 3 1 0 2
+3 2 4 1 0
+1 4 0 2 3
+0 1 2 3 4
+2 0 3 4 1
+is associative
+is commutative
+3 is unit
+has unit

@@ -1,12 +1,11 @@
-from Group2 import *
+from Group import *
 from itertools import permutations, combinations
 
-n = 5
+n = 4
 carrier = list(range(0,n))
 print('carrier: ',carrier)
 list_of_permuatations = list(permutations(range(0, n)))
 for table in combinations(list_of_permuatations, n):
-    # print(table)
     init(carrier,0,table)
     if has_unit() and has_inverses() and is_half_associative():
         print('')
