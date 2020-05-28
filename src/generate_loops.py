@@ -1,11 +1,17 @@
 '''
-2d_permutations.py
+generate_loops.py
+A loop is a square table with elements taken from the list [0,...,n-1] such
+  - first row and column are identical to the list
+  - all rows and columns are permutations of the list (such a square is known as a latin square)
+More mathematical, a loop is a quasi-group with a neutral element.
+
+compared to generate_loops1, here table is passed by reference, save approx 25% runtime on n=6
 '''
 
 import copy
-from Group2 import *
+from Group import *
 
-n = 5 # number of elements
+n = 6 # number of elements
 
 carrier = list(range(0,n)) # [0,1,... n-1]
 small_carrier = list(range(0,n)) # [1,... n-1]
@@ -49,35 +55,20 @@ def next_y(x,y):
 # generate all possible tables and check their properties
 def generate(x,y,table,available):
     for z in available[x-1][y-1]:
-        new_table = copy.deepcopy(table)
-        new_table[x][y] = z
+        # new_table = copy.deepcopy(table)
+        table[x][y] = z
         new_available = copy.deepcopy(available)
         for i in small_carrier:
             new_available[x-1][i] = [a for a in available[x-1][i] if a != z]
             new_available[i][y-1] = [a for a in available[i][y-1] if a != z]
         if not ( x == n-1 and y == n-1 ):
-            generate(next_x(x,y), next_y(x,y), new_table, new_available)
+            generate(next_x(x,y), next_y(x,y), table, new_available)
         else: 
             # print('')
-            # print('permutation table found')
+            # print('loop found')
             # print_table(new_table)
-            init(carrier,0,new_table)
-            if has_inverses():
-                print_table(new_table)
-                print('has inverses')
-                if is_commutative:
-                    print('is commutative')
-                    if is_associative():
-                        print('is associative')
-                    # else:
-                        # test_associative()
-            '''
-            if is_half_associative() and not is_associative():
-                print('is half associative, not associative')
-            if not has_inverses() and is_half_associative():
-                print('does not have inverses and is half associative')
-            '''
-
+            init(carrier,0,table)
+            # fill in your code
 # size 6: half_associative implies has_inverses, half_associative implies associative
 generate(1,1, table, available)
 

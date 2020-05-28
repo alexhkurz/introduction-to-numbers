@@ -19,8 +19,7 @@ I don't think it has to be this way ... at least that is what I am exploring her
    - [Using computers to verify equations](https://hackmd.io/@alexhkurz/r1Gdg_EoU)
    - [Playing Sudoku ... or rather Groupoku](https://hackmd.io/@alexhkurz/B1w9oSPiL)
    - [More Groupokus](https://hackmd.io/@alexhkurz/S1xSrvwjL)
-   - [Brief introduction to programming in Python](): tba8
-   - [Using computers to generate structures](): tba  
+   - [Using computers to generate structures](): 
    - [Counting up to isomorphism](): tba
    - [Groups, rings, and fields](): tba
 - [Arithmetic modulo 5](): tba

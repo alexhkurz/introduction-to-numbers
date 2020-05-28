@@ -1,11 +1,15 @@
 '''
-2d_permutations.py
+generate_loops.py
+A loop is a square table with elements taken from the list [0,...,n-1] such
+  - first row and column are identical to the list
+  - all rows and columns are permutations of the list (such a square is known as a latin square)
+More mathematical, a loop is a quasi-group with a neutral element.
 '''
 
 import copy
-from Group2 import *
+from Group import *
 
-n = 5 # number of elements
+n = 6 # number of elements
 
 carrier = list(range(0,n)) # [0,1,... n-1]
 small_carrier = list(range(0,n)) # [1,... n-1]
