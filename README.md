@@ -11,9 +11,11 @@ Not a course, rather a blog keeping track of teaching this material to my childr
 - [Arithmetic modulo 3](https://hackmd.io/@alexhkurz/SyJCHSMs8)
 - [Systems of 4 numbers](https://hackmd.io/@alexhkurz/SJZTQ9moL)
 - [The definition of a group](https://hackmd.io/@alexhkurz/BJKTIKaoU)
-- [Using computers](https://hackmd.io/@alexhkurz/r1Gdg_EoU)
+- [Using computers to verify equations](https://hackmd.io/@alexhkurz/r1Gdg_EoU)
 - [Python: Our first program](https://hackmd.io/@alexhkurz/Bk2c2C2oL)
-- [Python: Playing with the REPL](https://hackmd.io/@alexhkurz/SkABF8ajI)
+- Python: Playing with the REPL
+   - [Introduction, Integers](https://hackmd.io/@alexhkurz/SkABF8ajI)
+   - [Numbers](https://hackmd.io/@alexhkurz/SkABF8ajI)
 - [Playing Sudoku](https://hackmd.io/@alexhkurz/B1w9oSPiL)
 - [Groupokus](https://hackmd.io/@alexhkurz/S1xSrvwjL)
 - [Structure and Property](https://hackmd.io/@alexhkurz/S17OoT2oI)

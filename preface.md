@@ -2,6 +2,14 @@
 
 I collect here some general remarks about this teaching experience. 
 
+## Organisation
+
+All sessions are the shadow of discussions with Johanna and Jonathan. Together we went a lot in circles. There never was actual homework. We did everything together. But over the time I tried to organise these write-ups a bit more.
+
+Nevertheless, I try to not put much more in a write-up than we had in the session. A typical session lasts between 1 and 2 hours, but we are not trying to be efficient. In a more disciplined classroom style setting I would expect a session to not last longer than 50min and if the participants spend time working on their own doing homework, one could probably combine two sessions into one. 
+
+The write-ups distinguish Exercises and Activities. Activities are not something I would expect high-school students to do on their own. Activities reflect the discussions I had with Johanna and Jonathan.  Exercises I often added later and should be suitable for self-study.
+
 ## Takeaways
 
 Every lesson has some takeaways. The takeaways try to answer the question of how mathematicians approach an open problem. How do you launch yourself into an investigation? What are the methods of mathematical investigation? 
