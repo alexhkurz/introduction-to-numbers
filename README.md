@@ -15,7 +15,11 @@ Not a course, rather a blog keeping track of teaching this material to my childr
 - [Python: Our first program](https://hackmd.io/@alexhkurz/Bk2c2C2oL)
 - Python: Playing with the REPL
    - [Integers](https://hackmd.io/@alexhkurz/SkABF8ajI)
-   - [Floats](https://hackmd.io/@alexhkurz/HJ9zbYZnL)
+   - [Floats, Decimals, Fractions](https://hackmd.io/@alexhkurz/HJ9zbYZnL)
+   - [Booleans and Conditionals](https://hackmd.io/@alexhkurz/Bk1byMf2L)
+   - [Variables and Functions](https://hackmd.io/@alexhkurz/SJ1DcL43L)
+   - [Assignment](https://hackmd.io/@alexhkurz/HyJqEPN2L)
+   - ... 
 - [Playing Sudoku](https://hackmd.io/@alexhkurz/B1w9oSPiL)
 - [Groupokus](https://hackmd.io/@alexhkurz/S1xSrvwjL)
 - [Structure and Property](https://hackmd.io/@alexhkurz/S17OoT2oI)
