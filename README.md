@@ -7,7 +7,8 @@ Not a course, rather a blog keeping track of teaching this material to my childr
 [Preface](preface.md)
 
 - [What are numbers?](https://hackmd.io/@alexhkurz/ByKQ3EGiU)
-- [The field with two numbers](https://hackmd.io/@alexhkurz/HyzjN3qsI)
+- [Even and odd](https://hackmd.io/@alexhkurz/HykB3VPhU)
+- [The field with two elements](https://hackmd.io/@alexhkurz/HyzjN3qsI)
 - [Arithmetic modulo 3](https://hackmd.io/@alexhkurz/SyJCHSMs8)
 - [Systems of 4 numbers](https://hackmd.io/@alexhkurz/SJZTQ9moL)
 - [The definition of a group](https://hackmd.io/@alexhkurz/BJKTIKaoU)
