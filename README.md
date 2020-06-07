@@ -18,8 +18,13 @@ Not a course, rather a blog keeping track of teaching this material to my childr
    - [Integers](https://hackmd.io/@alexhkurz/SkABF8ajI)
    - [Floats, Decimals, Fractions](https://hackmd.io/@alexhkurz/HJ9zbYZnL)
    - [Booleans and Conditionals](https://hackmd.io/@alexhkurz/Bk1byMf2L)
-   - [Variables and Functions](https://hackmd.io/@alexhkurz/SJ1DcL43L)
-   - [Assignment](https://hackmd.io/@alexhkurz/HyJqEPN2L)
+   - [Functions](https://hackmd.io/@alexhkurz/SJ1DcL43L)
+   - [Plotting Functions](https://hackmd.io/@alexhkurz/SJN2udq3I)
+   - [Variables](https://hackmd.io/@alexhkurz/HyJqEPN2L)
+   - For Loops
+   - Lists
+   - Objects
+   - Recursion
    - ... 
 - [Playing Sudoku](https://hackmd.io/@alexhkurz/B1w9oSPiL)
 - [Groupokus](https://hackmd.io/@alexhkurz/S1xSrvwjL)
