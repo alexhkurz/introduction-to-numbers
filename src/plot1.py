@@ -8,7 +8,7 @@ x = np.linspace(-5,5,100)
 y = x**2
 
 # plot the function
-plt.plot(x,y)
+plt.scatter(x,y)
 
 # show the plot
 plt.show()
