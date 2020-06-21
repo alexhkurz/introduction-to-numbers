@@ -14,9 +14,14 @@ Not a course, rather a blog keeping track of teaching this material to my childr
 - [The definition of a group](https://hackmd.io/@alexhkurz/BJKTIKaoU)
 - [Using computers to verify equations](https://hackmd.io/@alexhkurz/r1Gdg_EoU)
 - [Python: Our first program](https://hackmd.io/@alexhkurz/Bk2c2C2oL)
-- [More on Programming](https://github.com/alexhkurz/introduction-to-programming/blob/master/README.md)
 
-(we are currently in the programming part)
+---
+
+we are currently making a detour to an 
+
+- [Introduction to Programming](https://github.com/alexhkurz/introduction-to-programming/blob/master/README.md)
+
+---
 
 - [Playing Sudoku](https://hackmd.io/@alexhkurz/B1w9oSPiL)
 - [Groupokus](https://hackmd.io/@alexhkurz/S1xSrvwjL)
