@@ -10,19 +10,17 @@ Sessions:
 
 - [What are numbers?](https://hackmd.io/@alexhkurz/ByKQ3EGiU)
 - [Even and odd](https://hackmd.io/@alexhkurz/HykB3VPhU)
-- [The Prisoner Hat Riddle](https://www.youtube.com/watch?v=N5vJSNXPEwA) (write-up to be supplied)
+- [The Prisoner Hat Riddle](https://hackmd.io/@alexhkurz/SkmIqZ4JD)
 - [The field with two elements](https://hackmd.io/@alexhkurz/HyzjN3qsI)
+- [Logic gates](https://hackmd.io/@alexhkurz/H1R58bVyD)
 - [Arithmetic modulo 3](https://hackmd.io/@alexhkurz/SyJCHSMs8)
-- [The Prisoner Hat Riddle, revisited]() (to be added)
+- [The Prisoner Hat Riddle with Three Colours](https://hackmd.io/@alexhkurz/B1UDo-VyD)
 - [Systems of 4 numbers](https://hackmd.io/@alexhkurz/SJZTQ9moL)
 - [The definition of a group](https://hackmd.io/@alexhkurz/BJKTIKaoU)
 - [Using computers to verify equations](https://hackmd.io/@alexhkurz/r1Gdg_EoU)
 - [Python: Our first program](https://hackmd.io/@alexhkurz/Bk2c2C2oL)
-<<<<<<< HEAD
 
 - [More on Programming](https://github.com/alexhkurz/introduction-to-programming/blob/master/README.md)
-=======
->>>>>>> 82bd55aeea1e566e7be7711e5db8b084938e52dc
 
 ---
 
