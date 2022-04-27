@@ -1,5 +1,7 @@
 # Introduction to Numbers
 
+(temporarily abandoned until another opportunity arises)
+
 Not a course, rather a blog keeping track of teaching this material to my children (age 15 and 18)  ... teaching is maybe not the right word, rather I want to make them discover the maths for themselves.
 
 **Prerequisites:** Roughly speaking GCSE mathematics. Know how to play sudoku.
